@@ -2,7 +2,7 @@ data_science_course3
 ====================
 This repo - is learning project for Coursera course https://www.coursera.org/course/getdata
 
-This script use data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip , placed in working dir (not in this repository
+This script use data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, placed in working dir (not in this repository)
 
 
 And do following:
