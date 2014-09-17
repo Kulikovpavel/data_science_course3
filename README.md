@@ -14,6 +14,6 @@ And does the following:
 + From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-In tidy_set.txt you can find output from script.
+In [tidy_set.txt](tidy_set.txt) you can find output from script.
 
-In CodeBook.md - description of the variables.
+In [CodeBook.md](CodeBook.md)CodeBook.md - description of the variables.
