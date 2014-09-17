@@ -16,4 +16,4 @@ And does the following:
 
 In [tidy_set.txt](tidy_set.txt) you can find output from script.
 
-In [CodeBook.md](CodeBook.md)CodeBook.md - description of the variables.
+In [CodeBook.md](CodeBook.md) - description of the variables.
