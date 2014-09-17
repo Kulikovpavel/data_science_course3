@@ -5,7 +5,7 @@ This repo - is learning project for Coursera course https://www.coursera.org/cou
 This script uses the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, placed in working dir (not in this repository)
 
 
-And do following:
+And does the following:
 
 + Merges the training and the test sets to create one data set.
 + Extracts only the measurements on the mean and standard deviation for each measurement. 
