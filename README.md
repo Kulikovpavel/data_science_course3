@@ -13,4 +13,5 @@ And do following:
 
 
 In tidy_set.txt you can find output from script.
+
 In CodeBook.md - description of the variables.
